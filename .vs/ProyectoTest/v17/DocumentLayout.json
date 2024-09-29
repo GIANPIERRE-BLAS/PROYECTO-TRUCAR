@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|c:\\users\\usuario\\downloads\\026_sistemacarritocompras-main\\proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\ProyectoTest.csproj|solutionrelative:proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAmwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T18:23:52.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T18:06:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:58:34.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tienda.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\026_SistemaCarritoCompras-main\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T17:58:26.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
